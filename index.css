@@ -1,0 +1,154 @@
+body{
+    background-color: #2F1893;
+}
+  
+.homepage{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.title{
+    padding-left: 150px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+
+li{
+    display: inline-block;
+    padding: 10px;
+    margin: 15px;
+}
+
+.purchase{
+    background-color: rgb(230, 56, 137);
+    border-radius: 25px;
+}
+
+.text{
+    color: white;
+    width: 227px;
+    height: 246px;
+    padding-left: 150px;
+}
+
+
+.learn-more{
+    background-color: rgb(230, 56, 137);
+    padding: 10px;
+    border-radius: 25px;
+    top: 20px;
+}
+
+.form{
+    color: rgb(52, 2, 94);
+    background-color: white;
+    width: 240px;
+    height: 306px;
+    padding-top: 20px;
+    padding-bottom: 90px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 50px;
+    margin-right: 100px;
+    border-radius: 10px;
+
+}
+
+.body-items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#email{
+    margin-bottom: 15px;
+    padding-left: 10px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding-right: 30px;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+
+#password{
+    margin-bottom: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 30px;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+
+#terms{
+    display: inline;
+    padding-left: 5px;
+    color: rgb(141, 131, 131);
+}
+
+.sign-in{
+    color: white;
+    margin-top: 15px;
+    margin-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 75px;
+    padding-right: 75px;
+    border-radius: 15px;
+    background-color: #2F1893;
+    
+}
+
+.left{
+    width: 45%;
+    float: left;
+}
+
+.right{
+    width: 45%;
+    float: right;
+}
+
+.line-break{
+    padding: 10px;
+}
+
+.twitter{
+    color: white;
+    margin-top: 15px;
+    margin-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 55px;
+    padding-right: 55px;
+    border-radius: 15px;
+    background-color: rgb(21, 221, 221);
+}
+
+.heading{
+    text-align: center;
+}
+
+#para{
+    color: rgb(143, 136, 136);
+    text-align: center;
+}
+
+#link{
+    color: rgb(34, 165, 165);
+}
+
+#overview{
+    color: rgb(143, 141, 140);
+}
